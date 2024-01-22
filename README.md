@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
 </div>
 
-<div class="stack_widget>
+<div class="stack_widget">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayoon-kim&layout=compact"><br>
 </div>
 </div>
