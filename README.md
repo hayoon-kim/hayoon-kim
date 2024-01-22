@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! This is Hayoon Kim 👋
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayoon-kim&layout=compact"><br><br>
 
