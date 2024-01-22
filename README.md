@@ -1,8 +1,9 @@
 ### Hi there! This is Hayoon Kim 👋
 
 ## Tech Stack
+<picture>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
-
+</picture>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayoon-kim&layout=compact"><br><br>
 
