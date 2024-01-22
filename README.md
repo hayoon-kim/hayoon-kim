@@ -1,4 +1,4 @@
-<div class="container" style="display: flex; flex-direction: column">
+<div class="container" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
 
 ### Hi there! This is Hayoon Kim 👋
 
